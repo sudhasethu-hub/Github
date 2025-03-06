@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/X6SSETHU/Downloads/commons-io-2.18.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/X6SSETHU/Downloads/eclipse-java-2024-12-R-win32-x86_64/eclipse/configuration/org.eclipse.osgi/529/0/.cp/lib/testng-remote.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/X6SSETHU/Downloads/eclipse-java-2024-12-R-win32-x86_64/eclipse/configuration/org.eclipse.osgi/529/0/.cp/lib/Users/X6SSETHU/Downloads/eclipse-java-2024-12-R-win32-x86_64/eclipse/plugins/org.testng.eclipse.maven_7.10.2.202502241629.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
